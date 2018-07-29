@@ -1,0 +1,14 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - tensorflow
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - Cython
+    - jinja2
+    - Pillow
